@@ -1,6 +1,6 @@
 # Site settings
 title: Vafliuko fotografija
-description: Mano fotografuotos bei redaguotos nuotraukos.
+description: Mano fotografuotos bei redaguotos nuotraukos
 baseurl: "/photography" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
